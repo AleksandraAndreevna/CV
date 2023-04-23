@@ -1,0 +1,30 @@
+body, h1, h2, p {
+  margin: 0;
+  font-size: 100%;
+  font-weight: normal;
+  font-family: 'Franklin Gothic Medium', 'Arial', sans-serif;
+}
+
+
+.header{
+  height: 100vh;
+  width: 100vw;
+  background: linear-gradient(90deg, #7ceece,#d7f7d4,#a8d5ff);
+  background-position: center;
+  text-align: center;
+}
+
+.header-image{
+  display: inline-block;
+  width: 50vw;
+  height: 100vh;
+  padding: 50px;
+}
+
+.header-title{
+  font-size: 100px;
+  color: rgba(0,0,0, .7);
+  text-transform: uppercase;
+  text-style: italic;
+  margin: auto;
+}

@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Осипова Александра</title>
+  <link rel="stylesheets" href="style.css">
+  <link rel="icon" type="image" href="favicon.ico">
+</head>
+<body>
+  <header class="header">
+    <h1 class="header-title">Осипова Александра</h1>
+    <img class="header-image" src='photo.img'>
+  </header>
+  <section class="content"> 
+    <div class="card">
+      <img class="card-image" src='https://images.unsplash.com/photo-1577511425081-0ec68e1bd454?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1741&q=80'>
+      <h2 class="card-title">Цель</h2>
+      <p class="card-text">Получить должность Junior Frontend-разработчика</p>
+    </div>
+ </section>
+</body>
+</html>
