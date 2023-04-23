@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Осипова Александра</title>
-  <link rel="stylesheets" href="style.css">
+  <link rel="stylesheet" href="style.css">
   <link rel="icon" type="image" href="favicon.ico">
 </head>
 <body>
